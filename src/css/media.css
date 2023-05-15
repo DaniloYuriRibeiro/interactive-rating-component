@@ -1,0 +1,42 @@
+@media(max-width: 430px){
+    .container{
+        padding: 25px;
+        margin: 30px;
+        min-width: 320px;
+        border-radius: 15px;
+        font-size: 1.3rem;
+    }
+    
+    .start-rate{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .start-rate .header{
+        width: 100%;
+        display: block;
+    }
+
+    .start-rate .header img{
+        padding: 12px;
+        margin-bottom: 26px;
+    }
+
+    .start-rate h1{
+        font-size: 2.2rem
+    }
+
+    .list{
+        width: 280px;
+    }
+
+    .list .list-item{
+        height: 40px;
+        width: 40px;
+    }
+
+    button{
+        width: 270px;
+    }
+}
