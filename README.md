@@ -31,7 +31,7 @@ Usuário devem ser capazes de:
 ![](./src/images/rating%20challange.png)
 
 #Segunda Página
-![](./src/images/rating%20challange%202.png.png)
+![](./src/images/rating%20challange%202.png)
 
 ### Links
 
