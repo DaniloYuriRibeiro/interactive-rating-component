@@ -24,5 +24,4 @@ const btn = document.querySelector("button").addEventListener("click", (e) => {
     } else {
         alert("You need to select at least 1 grade!!")
     }
-
 })
