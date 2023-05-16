@@ -18,7 +18,7 @@ Essa é a solução para o desafio [Interactive rating component challenge on Fr
 
 ### The Challenge
 
-Usuário devem ser capazes de:
+Usuários devem ser capazes de:
 
 - Ver o layout ideal para o aplicativo, dependendo do tamanho da tela do dispositivo;
 - Ver os estados de foco para todos os elementos interativos na página;
